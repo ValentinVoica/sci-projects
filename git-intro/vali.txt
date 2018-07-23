@@ -1,2 +1,2 @@
-hello master
 Am facut niste modificari. distractie faina.
+Am facut niste modificari locale.
