@@ -1,1 +1,2 @@
-hello
+hello master
+Am facut niste modificari. distractie faina.
