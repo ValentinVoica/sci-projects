@@ -1,2 +1,2 @@
 hello master
-Am facut niste modificari. distractie faina.
+facem o moficare si remote ca sa avem conflict.
