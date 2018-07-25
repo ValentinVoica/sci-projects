@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Am facut niste modificari. distractie faina.
 Am facut niste modificari locale.
 hello master
 
+=======
+hello master
+facem o moficare si remote ca sa avem conflict.
+modificare 3
+>>>>>>> f421eda7c5e85297cf9cd6133bd4fff5862f152c
